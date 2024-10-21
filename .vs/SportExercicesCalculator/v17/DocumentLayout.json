@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|f:\\document\\dev\\c#\\sportexercicescalculator\\sportexercicescalculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|solutionrelative:sportexercicescalculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|f:\\document\\dev\\c#\\sportexercicescalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|f:\\document\\dev\\c#\\sportexercicescalculator\\ascii\\illustrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|solutionrelative:ascii\\illustrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|f:\\document\\dev\\c#\\sportexercicescalculator\\ascii\\asciimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|solutionrelative:ascii\\asciimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|f:\\document\\dev\\c#\\sportexercicescalculator\\utilities\\printtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|solutionrelative:utilities\\printtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|f:\\document\\dev\\c#\\sportexercicescalculator\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|f:\\document\\dev\\c#\\sportexercicescalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22609C3-8E1C-447A-A04A-26BD73292BDA}|SportExercicesCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportExercicesCalculator",
+              "DocumentMoniker": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\SportExercicesCalculator.csproj",
+              "RelativeDocumentMoniker": "SportExercicesCalculator.csproj",
+              "ToolTip": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\SportExercicesCalculator.csproj",
+              "RelativeToolTip": "SportExercicesCalculator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T16:39:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:52:12.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:38:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintText.cs",
+              "DocumentMoniker": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Utilities\\PrintText.cs",
+              "RelativeDocumentMoniker": "Utilities\\PrintText.cs",
+              "ToolTip": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Utilities\\PrintText.cs",
+              "RelativeToolTip": "Utilities\\PrintText.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:33:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Illustrations.cs",
+              "DocumentMoniker": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Ascii\\Illustrations.cs",
+              "RelativeDocumentMoniker": "Ascii\\Illustrations.cs",
+              "ToolTip": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Ascii\\Illustrations.cs",
+              "RelativeToolTip": "Ascii\\Illustrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:30:00.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsciiManager.cs",
+              "DocumentMoniker": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Ascii\\AsciiManager.cs",
+              "RelativeDocumentMoniker": "Ascii\\AsciiManager.cs",
+              "ToolTip": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Ascii\\AsciiManager.cs",
+              "RelativeToolTip": "Ascii\\AsciiManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:29:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Document\\DEV\\C#\\SportExercicesCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:05:41.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

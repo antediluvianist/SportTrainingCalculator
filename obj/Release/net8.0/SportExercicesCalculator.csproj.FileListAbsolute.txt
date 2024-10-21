@@ -1,0 +1,14 @@
+F:\Document\DEV\C#\SportExercicesCalculator\bin\Release\net8.0\SportExercicesCalculator.exe
+F:\Document\DEV\C#\SportExercicesCalculator\bin\Release\net8.0\SportExercicesCalculator.deps.json
+F:\Document\DEV\C#\SportExercicesCalculator\bin\Release\net8.0\SportExercicesCalculator.runtimeconfig.json
+F:\Document\DEV\C#\SportExercicesCalculator\bin\Release\net8.0\SportExercicesCalculator.dll
+F:\Document\DEV\C#\SportExercicesCalculator\bin\Release\net8.0\SportExercicesCalculator.pdb
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\SportExercicesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\SportExercicesCalculator.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\SportExercicesCalculator.AssemblyInfo.cs
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\SportExercicesCalculator.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\SportExercicesCalculator.dll
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\refint\SportExercicesCalculator.dll
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\SportExercicesCalculator.pdb
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\SportExercicesCalculator.genruntimeconfig.cache
+F:\Document\DEV\C#\SportExercicesCalculator\obj\Release\net8.0\ref\SportExercicesCalculator.dll
